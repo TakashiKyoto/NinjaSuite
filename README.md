@@ -16,11 +16,11 @@ Every tool in Ninja Suite follows the same principles:
 
 | Tool | Description | Status |
 |------|-------------|--------|
-| [NinjaMove](https://github.com/TakashiSeven/NinjaMove) | Alt+drag window control for Windows | Released |
-| [NinjaEdit](https://github.com/TakashiSeven/NinjaEdit) | Modern text editor for coders | In Development |
-| [NinjaCash](https://github.com/TakashiSeven/NinjaCash) | Personal finance tracking PWA | In Development |
-| [NinjaExa](https://github.com/TakashiSeven/NinjaExa) | AI-powered web search CLI | In Development |
-| [NinjaFind](https://github.com/TakashiSeven/NinjaFind) | Cross-platform file search GUI | In Development |
+| [NinjaMove](https://github.com/TakashiKyoto/NinjaMove) | Alt+drag window control for Windows | Released |
+| [NinjaEdit](https://github.com/TakashiKyoto/NinjaEdit) | Modern text editor for coders | In Development |
+| [NinjaCash](https://github.com/TakashiKyoto/NinjaCash) | Personal finance tracking PWA | In Development |
+| [NinjaExa](https://github.com/TakashiKyoto/NinjaExa) | AI-powered web search CLI | In Development |
+| [NinjaFind](https://github.com/TakashiKyoto/NinjaFind) | Cross-platform file search GUI | In Development |
 
 ## Why "Ninja"?
 
@@ -30,7 +30,7 @@ Ninjas are fast, precise, and effective. They get the job done without unnecessa
 
 **Takashi Kyoto** - Solo developer building tools that make daily workflows better.
 
-- [GitHub](https://github.com/TakashiSeven)
+- [GitHub](https://github.com/TakashiKyoto)
 - [YouTube](https://youtube.com/@TakashiKyoto)
 - [Spotify](https://open.spotify.com/artist/6SnAiKRLYkAC4Z2iWKpuQq)
 
